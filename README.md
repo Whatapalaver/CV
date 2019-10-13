@@ -48,7 +48,7 @@ A concise, logical thinker with an ability to exploit technical skills to solve 
 
 - Ruby and Ruby on Rails which is the framework for the V&A CMS.
 - JavaScript, Node and React
-- IIIF (International image framework) 
+- IIIF (International image interoperability framework) 
 - Elasticsearch
 - Advanced Excel and SQL data skills with a proven ability to transform vast, complex data into meaningful management reports.
 - tSQL / MS Query / SSIS - writing queries and procedures to automate processes. Large scale project examples include, NHS NWL Whole Systems a multi organisation patient costing project.
@@ -65,30 +65,11 @@ Provide strong, value driven leadership. Brought the NCL Acute Finance team thro
 
 Improvement focused - value continuous development both individually and departmentally. I love a challenge and am becoming ever more comfortable with feeling very uncomfortable!
 
-## Education
-
-#### Makers (June 2018 - October 2018)
-
-A 16-week intensive development bootcamp, where we learn to handle new technologies and languages in a group setting. It was an amazing experience where we learned to handle a steady stream of new challenges and developed the skills to unpick error messages and rescue ourselves without panic. Here I have learned to work in groups following an Agile framework where we use daily standups to ensure we are on track to deliver our target features. I have experience now in writing fullstack applications using a combination of Ruby and Javascript with frameworks such as Rails and React. All projects have been created using TDD approaches.
-
-**BPP London** - CIMA full accountancy qualification (2006 - 2009)
-
-#### University College London (2003 - 2006)
-
-- PhD Chemistry (Astrochemistry)
-- Thesis title: Formation of Alcohol on Interstellar Dust Grain Analogues
-- This was an experimental PhD involving serious spanner skills. I maintained a huge vacuum chamber that enabled me to recreate interstellar conditions (extremely low temperatures and pressures) and performed gas bombardment experiments on a small piece of graphite suspended in the middle of the chamber. This experience taught me very high levels of patience and the ability to process large volumes of data.
-
-**Open University** - BSc in Natural Sciences with Chemistry 1st Class Hons (1995 - 2000)
-
-**Sheffield University** - 2nd MB Medicine (1989 - 1993)
-
-**Headlands School Bridlington** - A levels in Chemistry (A), Physics (B), Biology (A) and AS Maths (1989)
-
 ## Experience
 
 **The Victoria and Albert Museum** (Jan 2019 to present)
 *Full Stack Developer*
+- Working predominantly on the Rails CMS with project focus on stage 2 of the Search the Collections site which involves Elasticsearch and data management
 
 **Barts Health NHS Trust** (May 2017 - June 2018)
 *Associate Director of Finance - Income*
@@ -115,6 +96,27 @@ A 16-week intensive development bootcamp, where we learn to handle new technolog
 **Marketforce** (Sept 2002 - Sept 2003) *Retail Channel Analyst*
 
 **Cork International** (Apr 1998 - Sept 2002) *Manager of Sales Based Ordering System*
+
+## Education
+
+#### Makers (June 2018 - October 2018)
+
+A 16-week intensive development bootcamp, where we learn to handle new technologies and languages in a group setting. It was an amazing experience where we learned to handle a steady stream of new challenges and developed the skills to unpick error messages and rescue ourselves without panic. Here I have learned to work in groups following an Agile framework where we use daily standups to ensure we are on track to deliver our target features. I have experience now in writing fullstack applications using a combination of Ruby and Javascript with frameworks such as Rails and React. All projects have been created using TDD approaches.
+
+**BPP London** - CIMA full accountancy qualification (2006 - 2009)
+
+#### University College London (2003 - 2006)
+
+- PhD Chemistry (Astrochemistry)
+- Thesis title: Formation of Alcohol on Interstellar Dust Grain Analogues
+- This was an experimental PhD involving serious spanner skills. I maintained a huge vacuum chamber that enabled me to recreate interstellar conditions (extremely low temperatures and pressures) and performed gas bombardment experiments on a small piece of graphite suspended in the middle of the chamber. This experience taught me very high levels of patience and the ability to process large volumes of data.
+
+**Open University** - BSc in Natural Sciences with Chemistry 1st Class Hons (1995 - 2000)
+
+**Sheffield University** - 2nd MB Medicine (1989 - 1993)
+
+**Headlands School Bridlington** - A levels in Chemistry (A), Physics (B), Biology (A) and AS Maths (1989)
+
 
 ## Hobbies and Interests
 I’m a medically and accountancy trained full stack developer with a PhD in Astrochemistry but I could also be described as a serial dabbler with multiple full time interests. I document almost all of these interests in one or more blogs.
