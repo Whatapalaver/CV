@@ -9,11 +9,7 @@
 
 <div align="center">
 
-[Projects ](#projects) |
-[Skills ](#skills) |
-[Education ](#education) |
-[Experience ](#experience) |
-[Interests ](#hobbies-and-interests)
+[Projects ](#projects) | [Skills ](#skills) | [Education ](#education) | [Experience ](#experience) | [Interests ](#hobbies-and-interests)
 
 </div>
 
@@ -31,25 +27,25 @@ I have multiple interests such as ice-swimming and powerlifting that occupy me i
 
 ## Projects
 
-Project | Comment | Tech | Github | Hosted |
------------- | ------ | ---- | -----| ---|
-Cocktail | A ruby command line tool for converting IIIF manifests to pdf | Ruby | [Cocktail](https://github.com/vanda/cocktail) |
-Anagram Tech Test (II) | Producing a frontend implementation of a simple anagram app created. This was produced in React and showcased my progress with css Grid | React | [Anagram-React](https://github.com/Whatapalaver/anagram_react) | [Heroku - Anagram](https://anagram-wolff.herokuapp.com/) | |
-MultiRoute Tech Test | Creating a multipath text based story | Ruby and Sinatra | [Multi Route Text Game](https://github.com/Whatapalaver/tech_test_text_game) |
-Pixie Labs Tech Test | A Simple Poker Card Game. A good test of TDD, OOP skills and the ability to create a full web app | Ruby and Sinatra | [Shuffle Decider](https://github.com/Whatapalaver/shuffle_decider) | [Heroku - Shuffle](https://pixie-lab-test.herokuapp.com/)
-Webscraping Tech Test | This was a time limited tech test with the challenge to scrape event details from a multipage ticketing website | Ruby with Nokogiri | [Ruby-webscrape](https://github.com/Whatapalaver/ruby_webscrape) |
-Birdie Tech Test | First post Makers tech test. Given login details for an AWS DB, the task was to create an API and display Census statisitics on a single page react app | Node.js, Express, MySQL and React | [Birdie](https://github.com/Whatapalaver/birdietest) | [Census Live](https://birdie-tech-test.herokuapp.com/)
+| Project                | Comment                                                                                                                                                 | Tech                              | Github                                                                       | Hosted                                                    |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------- |
+| Cocktail               | A ruby command line tool for converting IIIF manifests to pdf                                                                                           | Ruby                              | [Cocktail](https://github.com/vanda/cocktail)                                |
+| Anagram Tech Test (II) | Producing a frontend implementation of a simple anagram app created. This was produced in React and showcased my progress with css Grid                 | React                             | [Anagram-React](https://github.com/Whatapalaver/anagram_react)               | [Heroku - Anagram](https://anagram-wolff.herokuapp.com/)  |  |
+| MultiRoute Tech Test   | Creating a multipath text based story                                                                                                                   | Ruby and Sinatra                  | [Multi Route Text Game](https://github.com/Whatapalaver/tech_test_text_game) |
+| Poker Game Tech Test   | A Simple Poker Card Game. A good test of TDD, OOP skills and the ability to create a full web app                                                       | Ruby and Sinatra                  | [Shuffle Decider](https://github.com/Whatapalaver/shuffle_decider)           | [Heroku - Shuffle](https://pixie-lab-test.herokuapp.com/) |
+| Webscraping Tech Test  | This was a time limited tech test with the challenge to scrape event details from a multipage ticketing website                                         | Ruby with Nokogiri                | [Ruby-webscrape](https://github.com/Whatapalaver/ruby_webscrape)             |
+| Census Tech Test       | First post Makers tech test. Given login details for an AWS DB, the task was to create an API and display Census statisitics on a single page react app | Node.js, Express, MySQL and React | [Census Test](https://github.com/Whatapalaver/birdietest)                    | [Census Live](https://birdie-tech-test.herokuapp.com/)    |
 
 ## Skills
 
 ### Analytical and Judgement Skills
 
-A concise, logical thinker with an ability to exploit technical skills to solve problems rapidly and clearly. My joy of solving problems has been well tested at Makers where I've faced implementation and logic problems on a daily basis, my prior experience has helped me remain calm and apply a logical, scientific approach to resolving the current issue. It is this rollercoaster of frustration and reward that makes coding so appealing for me.
+A concise, logical thinker with an ability to exploit technical skills to solve problems rapidly and clearly. My joy of solving problems has been well tested in my new coding career where I've faced implementation and logic problems on a daily basis, my prior experience has helped me remain calm and apply a logical, scientific approach to resolving the current issue. It is this rollercoaster of frustration and reward that makes coding so appealing for me.
 
 ### Technical Skills
 
 - Ruby and Ruby on Rails which is the framework for the V&A CMS.
-- Python which is the scripting language behind Search the Collections website at the V&A. I am using python to build an elasticsearch API and a number of data importers.
+- Python which is the scripting language behind Search the Collections website at the V&A. I am using python to build an elasticsearch API and a number of data importers for our extensive data pipeline.
 - Elasticsearch and search relevance
 - JavaScript, Node and React
 - IIIF (International image interoperability framework) 
@@ -68,12 +64,14 @@ Provide strong, value driven leadership. Brought the NCL Acute Finance team thro
 
 Improvement focused - value continuous development both individually and departmentally. I love a challenge and am becoming ever more comfortable with feeling very uncomfortable!
 
+</br>
+
 ## Experience
 
 **The Victoria and Albert Museum** (Jan 2019 to present) *Full Stack Developer*
 
-- Development support for the main V&A website Content Management System built with Ruby on Rails 
-- Backend development for the rebuild of Explore the collections. Working predominantly in Python to create new elasticsearch APIs.
+- Development lead for the main V&A website Content Management System built with Ruby on Rails, ensuring the admin section reflects the requirements of the content team
+- Backend development for the rebuild of Explore the collections. Working predominantly in Python to create new elasticsearch APIs and data pipeline scripts
 
 **Barts Health NHS Trust** (May 2017 - June 2018) *Associate Director of Finance - Income*
 
