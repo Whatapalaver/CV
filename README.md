@@ -70,7 +70,7 @@ Improvement focused - value continuous development both individually and departm
 
 **The Victoria and Albert Museum** (Jan 2019 to present) *Full Stack Developer*
 
-- Development lead for the main V&A website Content Management System built with Ruby on Rails, ensuring the admin section reflects the requirements of the content team
+- Development responsibility for the main V&A website Content Management System built with Ruby on Rails, ensuring the admin section reflects the requirements of the content team
 - Backend development for the rebuild of Explore the collections. Working predominantly in Python to create new elasticsearch APIs and data pipeline scripts
 
 **Barts Health NHS Trust** (May 2017 - June 2018) *Associate Director of Finance - Income*
