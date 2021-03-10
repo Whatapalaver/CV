@@ -1,11 +1,15 @@
 <h1 align="center">Dr Angela Wolff</h1>
 <p align="center">
+<a href="https://whatapalaver.co.uk">
+<img src="https://github.com/Whatapalaver/whatapalaver/blob/master/images/iconfinder_social-media_web_1873909.png?raw=true" alt="tech blog" hspace="50" height="42" width="42"></a>
 <a href="https://twitter.com/DoctorMoxie">
-<img src="./images/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
-<a href="https://medium.com/@warriorwomenblog">
-<img src="./images/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
+<img src="https://github.com/Whatapalaver/whatapalaver/blob/master/images/iconfinder_social-media_twitter_1543317.png?raw=true" alt="twitter" hspace="50" height="42" width="42"></a>
+<a href="https://github.com/Whatapalaver">
+<img src="https://github.com/Whatapalaver/whatapalaver/blob/master/images/iconfinder_social-media_GitHub_1872635.png?raw=true" alt="github" hspace="50" height="42" width="42"></a>
 <a href="https://www.linkedin.com/in/angelawolff/">
-<img src="./images/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+<img src="https://github.com/Whatapalaver/whatapalaver/blob/master/images/iconfinder_social-media_linkedin_1727490.png?raw=true" alt="linkedin" hspace="50" height="42" width="42"></a>
+<a href="mailto: whatapalaver@hey.com">
+<img src="https://github.com/Whatapalaver/whatapalaver/blob/master/images/iconfinder_social-media_gmail_1873613.png?raw=true" alt="email" hspace="50" height="42" width="42"></a></p>
 
 <div align="center">
 
@@ -35,8 +39,8 @@ I have multiple interests such as ice-swimming and powerlifting that occupy me i
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |    <a href="https://github.com/Whatapalaver/anagram_react"><img width="1604" alt="Anagram Tech Test (II)" src="./images/anagram.png" height="222" width="258"> </a>  [Anagram-React](https://github.com/Whatapalaver/anagram_react)    | <a href="https://github.com/Whatapalaver/tech_test_text_game"><img width="1604" alt="tech test text game" src="./images/text_game.png" height="222" width="258"></a> [Multi Route Text Game](https://github.com/Whatapalaver/tech_test_text_game) | <a href="https://github.com/Whatapalaver/shuffle_decider"><img width="1604" alt="Tech test shuffle decider" src="./images/shuffle_decider.png" height="222" width="258"></a> [Shuffle Decider](https://github.com/Whatapalaver/shuffle_decider) |
 |                                                Producing a frontend implementation of a simple anagram app created. This was produced in React and showcased my progress with css Grid                                                 |                                                                                                       Creating a multipath text based story                                                                                                       |                                                                        A Simple Poker Card Game. A good test of TDD, OOP skills and the ability to create a full web app                                                                        |
-| <a href="https://github.com/Whatapalaver/ruby_webscrape"><img width="1604" alt="Ruby webscrape Tech Test" src="./images/webscrape.png" height="222" width="258"></a>  [Ruby-webscrape](https://github.com/Whatapalaver/ruby_webscrape) |                  <a href="https://github.com/Whatapalaver/birdietest"><img width="1604" alt="Census tech test" src="./images/birdie.png" height="222" width="258"></a> [Census Test](https://github.com/Whatapalaver/birdietest)                  |                       <a href="https://github.com/Whatapalaver/paddlr"><img width="1604" alt="ping pong scorer" src="./images/paddlr.png" height="222" width="258"></a> [paddlr](https://github.com/Whatapalaver/paddlr)                        |
-|                                                            This was a time limited tech test with the challenge to scrape event details from a multipage ticketing website                                                             |                                              First post Makers tech test. Given login details for an AWS DB, the task was to create an API and display Census statisitics on a single page react app                                              |                                                                          Final team project at Makers. A live ping pong scorer with restful API and Slack Integration                                                                           |
+| <a href="https://github.com/Whatapalaver/bhg"><img width="1604" alt="Remote Bridge" src="./images/game_over.png" height="222" width="258"></a>  [BHG](https://github.com/Whatapalaver/bhg) |                  <a href="https://github.com/Whatapalaver/birdietest"><img width="1604" alt="Census tech test" src="./images/birdie.png" height="222" width="258"></a> [Census Test](https://github.com/Whatapalaver/birdietest)                  |                       <a href="https://github.com/Whatapalaver/paddlr"><img width="1604" alt="ping pong scorer" src="./images/paddlr.png" height="222" width="258"></a> [paddlr](https://github.com/Whatapalaver/paddlr)                        |
+|                                                            A rails app to generate Bridge hands for remote play - inspired by a world where we aren't allowed to gather around a table with a pack of cards                                                             |                                              First post Makers tech test. Given login details for an AWS DB, the task was to create an API and display Census statisitics on a single page react app                                              |                                                                          Final team project at Makers. A live ping pong scorer with restful API and Slack Integration                                                                           |
 
 ## Skills
 
@@ -100,13 +104,11 @@ Improvement focused - value continuous development both individually and departm
 
 ## Education
 
-### Makers (June 2018 - October 2018)
+**Makers** - A 16-week intensive development bootcamp (June 2018 - October 2018)
 
-A 16-week intensive development bootcamp. Working in a group setting following an Agile framework, using daily standups to ensure delivery of our target features. We used a TDD approach to create a series of fullstack applications using a combination of Ruby and Javascript with frameworks such as Rails and React. 
+**BPP London** - CIMA full accountancy qualification (2006 - 2009)
 
-**BPP London** - CIMA Chartered Global Management Accountant CGMA (2006 - 2009)
-
-### University College London (2003 - 2006) - PhD Astrochemistry
+**University College London** - PhD Chemistry (Astrochemistry) (2003 - 2006)
 
 - Thesis title: Formation of Alcohol on Interstellar Dust Grain Analogues
 - This was an experimental PhD involving serious spanner skills. I maintained a huge vacuum chamber that enabled me to recreate interstellar conditions (extremely low temperatures and pressures) and performed gas bombardment experiments on a small piece of graphite suspended in the middle of the chamber. This experience taught me very high levels of patience and the ability to process large volumes of data.
